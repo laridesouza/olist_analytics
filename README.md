@@ -86,3 +86,5 @@ A taxa de atraso apresenta picos críticos de **13% em março** e **12% em dezem
 - O Star Schema no Power BI permitiu cruzar dimensões (região, categoria, período) sem duplicação de dados.
 
 ---
+
+Projeto completo em https://rebrand.ly/larissa-portfolio
