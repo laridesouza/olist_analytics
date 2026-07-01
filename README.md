@@ -1,6 +1,6 @@
 # 🛍️ Diagnóstico de Performance Logística e Satisfação de Clientes da Olist
 
-Abálise da eficiência logística da Olist e seu impacto na satisfação dos clientes, identificando gargalos regionais de entrega, categorias com prazos subestimados e a correlação direta entre atrasos e queda no Review Score.
+Análise da eficiência logística da Olist e seu impacto na satisfação dos clientes, identificando gargalos regionais de entrega, categorias com prazos subestimados e a correlação direta entre atrasos e queda no Review Score.
 ---
 
 ## 📌 Contexto
